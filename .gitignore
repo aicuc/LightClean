@@ -1,0 +1,10 @@
+.build/
+dist/
+.DS_Store
+# Local deployment metadata and working notes
+docs/deployment-*.json
+docs/plans/
+.env
+.env.*
+*.p12
+*.mobileprovision
